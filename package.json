@@ -1,0 +1,13 @@
+{
+  "engines": {
+    "node": "16.13.0",
+    "npm": "8.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql": "github:mysqljs/mysql"
+  }
+}
